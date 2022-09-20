@@ -36,7 +36,7 @@ section#login{
 
   overflow: hidden;
   width: 250px;
-  height: 500px;
+  height: 520px;
   background-color: #fff;
   border-radius: 15px;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.514);
@@ -70,4 +70,10 @@ div#formulario input{
 }
 div#formulario > h1{
   text-align: center;
+  margin: 5px;
+}
+
+div#formulario > p{
+  font-weight: 600;
+  margin-bottom: 15px;
 }
