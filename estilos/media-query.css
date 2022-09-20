@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 @media screen and (min-width:768px) and (max-width:992px) {
+
     body{
         background-image: linear-gradient(to top, #49A09D, #5F2C82);
     }
@@ -17,12 +18,8 @@
         float: right;
         width: 70%;
     }
-    div#formulario > h1{
-
-    }
 
     div#formulario > p{
-        font-size: ;
         margin-bottom: 150px;
     }
     section form{
